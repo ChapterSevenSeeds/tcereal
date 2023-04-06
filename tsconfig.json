@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "ESNext",
+        "lib": [
+            "ESNext",
+        ],
+        "module": "CommonJS",
+        "esModuleInterop": true,
+        "sourceMap": true,
+    },
+    "include": [
+        "index.ts"
+    ]
+}
